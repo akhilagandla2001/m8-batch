@@ -7,7 +7,7 @@ test.describe('describe test block',async () => {
 })
 
 test('test2',async () => {
-    console.log('test2');
+    console.log('test3');
 })
 
 test('test3',async () => {
